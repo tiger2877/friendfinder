@@ -5,8 +5,8 @@
 --------------------------------------------- */
 var friends = [
   {
-    name: "Budhi Cahyadi",
-    photoURL: "https://raw.githubusercontent.com/tiger2877/Basic-Portfolio/master/Assets/images/me.jpg",
+    name: "Jerry Seinfeld",
+    photoURL: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/seinfeld.jpg",
     scores: [
       5,
       1,
@@ -34,6 +34,38 @@ var friends = [
       2,
       1,
       1
+    ]
+  },
+  {
+    name: "George Costanza",
+    photoURL: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/george.jpg",
+    scores: [
+      5,
+      4,
+      3,
+      4,
+      4,
+      3,
+      5,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    name: "Cosmo Kramer",
+    photoURL: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/kramer.jpg",
+    scores: [
+      5,
+      1,
+      1,
+      1,
+      5,
+      1,
+      1,
+      1,
+      5,
+      5
     ]
   }
 ];
