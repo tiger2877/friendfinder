@@ -19,6 +19,22 @@ var friends = [
       4,
       1
     ]
+  },
+  {
+    name: "Elaine Benes",
+    photoURL: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/elaine.jpg",
+    scores: [
+      3,
+      4,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1
+    ]
   }
 ];
 
