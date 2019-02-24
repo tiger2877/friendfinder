@@ -38,7 +38,7 @@ var friends = [
   },
   {
     name: "George Costanza",
-    photoURL: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/george.jpg",
+    photo: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/george.jpg",
     scores: [
       5,
       4,
