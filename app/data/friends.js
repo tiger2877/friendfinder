@@ -6,7 +6,7 @@
 var friends = [
   {
     name: "Jerry Seinfeld",
-    photoURL: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/seinfeld.jpg",
+    photo: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/seinfeld.jpg",
     scores: [
       5,
       1,
@@ -22,7 +22,7 @@ var friends = [
   },
   {
     name: "Elaine Benes",
-    photoURL: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/elaine.jpg",
+    photo: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/elaine.jpg",
     scores: [
       3,
       4,
@@ -54,7 +54,7 @@ var friends = [
   },
   {
     name: "Cosmo Kramer",
-    photoURL: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/kramer.jpg",
+    photo: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/kramer.jpg",
     scores: [
       5,
       1,
