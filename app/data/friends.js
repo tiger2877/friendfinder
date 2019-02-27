@@ -22,7 +22,7 @@ var friends = [
   },
   {
     name: "Elaine Benes",
-    photo: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/elaine.jpg",
+    photo: "https://samepageteam.files.wordpress.com/2014/04/elaine-benes-picture.jpg?w=470",
     scores: [
       3,
       4,
@@ -38,7 +38,7 @@ var friends = [
   },
   {
     name: "George Costanza",
-    photo: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/george.jpg",
+    photo: "http://images3.wikia.nocookie.net/__cb20110406222713/seinfeld/images/7/76/George-costanza.jpg",
     scores: [
       5,
       4,
@@ -54,7 +54,7 @@ var friends = [
   },
   {
     name: "Cosmo Kramer",
-    photo: "https://raw.githubusercontent.com/tiger2877/friendfinder/master/kramer.jpg",
+    photo: "http://img1.rnkr-static.com/user_node_img/79/1576045/870/michael-richards-people-in-tv-photo-u6.jpg",
     scores: [
       5,
       1,
